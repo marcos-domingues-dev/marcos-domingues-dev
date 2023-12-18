@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcos-domingues-dev
 - 👀 I’m interested in Clean Architecture, Microservices Patterns, and Domain-Driven Design
-- 🌱 I’m currently working with Java Spring Cloud
+- 🌱 I’m currently working with Java, Spring Boot, Apache Camel, RabbitMQ and GCP PubSub
 - 📫 How to reach me: https://www.linkedin.com/in/marcos-domingues-dev/
 
 - Java Backend Mentoring: https://marcos-domingues-dev.github.io/roadmap-backend.github.io/ (Portuguese only)
